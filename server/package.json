@@ -1,0 +1,11 @@
+{
+  "name": "schooltalk-server",
+  "version": "1.0.0",
+  "description": "校园论坛App后端服务",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
