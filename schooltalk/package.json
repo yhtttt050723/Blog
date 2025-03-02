@@ -1,0 +1,13 @@
+{
+  "name": "schooltalk",
+  "version": "1.0.0",
+  "description": "校园论坛App前端项目",
+  "scripts": {
+    "dev": "npm run serve",
+    "serve": "uni-app-cli serve"
+  },
+  "dependencies": {
+    "vue": "^2.6.14",
+    "uni-app": "^2.0.0"
+  }
+}
