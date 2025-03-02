@@ -1,9 +1,9 @@
 {
-    "version" : "1.0",
-    "configurations" : [
+    "version": "1.0", //配置文件版本(通常由Hbuilderx自动管理)
+    "configurations": [ //定义多个调试配置方案
         {
-            "playground" : "standard",
-            "type" : "uni-app:app-android"
+            "playground": "standard", //运行环境模式(标准模式)
+            "type": "uni-app:app-android" //目标平台类型(Android应用)
         }
     ]
 }
