@@ -3,7 +3,7 @@
     "configurations": [ //定义多个调试配置方案
         {
             "playground": "standard", //运行环境模式(标准模式)
-            "type": "uni-app:app-android" //目标平台类型(Android应用)
+            "type": "uni-app:app-android" //目标平台类型(Android应用).....
         }
     ]
 }
